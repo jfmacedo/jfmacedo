@@ -50,7 +50,7 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)]([https://linkedin.com](https://www.linkedin.com/in/joaofilipemacedo/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/joaofilipemacedo/)
 [![Email](https://img.shields.io/badge/Email-red)](mailto:joaofilipe2006@gmail.com)
 
 ---
