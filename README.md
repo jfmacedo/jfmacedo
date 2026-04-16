@@ -53,7 +53,7 @@
 
 <h2 align="center""> <img src="https://github.com/jfmacedo/jfmacedo/blob/d6fb1e1bc48ef0deb8064df943275e8208bc6c69/image3.png" width="25"/> <em> Statistics </em> </h2>
 <div align = "center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-Solano&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jfmacedo&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
 
